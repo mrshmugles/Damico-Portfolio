@@ -1,0 +1,3 @@
+how to run dashboard
+
+python -m streamlit run nfl_predictor.py
